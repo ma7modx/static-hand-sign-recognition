@@ -1,0 +1,2 @@
+in det boundary rep the value according to nextX - current *10
+color normalization
